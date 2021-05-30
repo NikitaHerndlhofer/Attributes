@@ -1,12 +1,12 @@
 {
   "name": "attributes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Attributes",
   "description": "this package has a core system for your stats",
   "unity": "2018.1",
-  "dependencies": {},
   "author": {
     "name": "Nikita Herndlhofer",
     "email": "herndlhofer.nikita.work@gmail.com"
-  }
+  },
+  "type": "library"
 }
