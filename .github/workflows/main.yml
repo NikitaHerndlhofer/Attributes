@@ -1,4 +1,4 @@
-name: Update version
+name: Upgrade version according to git message
 on:
   push:
     branches: [ main ]
