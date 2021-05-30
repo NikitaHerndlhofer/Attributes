@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Attributes.Modifiers;
 
-namespace CharacterAttributes
+namespace Attributes.Attributes
 {
     [Serializable]
     public class FloatAttribute

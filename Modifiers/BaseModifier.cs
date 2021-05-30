@@ -1,4 +1,4 @@
-﻿namespace CharacterAttributes
+﻿namespace Attributes.Modifiers
 {
     public abstract class BaseModifier<T>
     {

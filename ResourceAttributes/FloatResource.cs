@@ -1,7 +1,8 @@
 ﻿using System;
+using Attributes.Attributes;
 using UnityEngine;
 
-namespace CharacterAttributes
+namespace Attributes.ResourceAttributes
 {
     [Serializable]
     public class FloatResource
