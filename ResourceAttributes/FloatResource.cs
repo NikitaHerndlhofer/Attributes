@@ -8,9 +8,10 @@ namespace Attributes.ResourceAttributes
     public class FloatResource
     {
         [SerializeField]
-        public FloatAttribute maxValue;
+        protected FloatAttribute maxValue;
         [SerializeField]
         public float currentValue;
+        public float FinalValue => maxValue.FinalValue;
 
         public FloatResource() : this(0)
         {}
